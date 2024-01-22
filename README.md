@@ -1,2 +1,2 @@
 # test
-![Texte alternatif](Maquettes\DetailsScreen.png)
+![Texte alternatif](Maquettes/DetailsScreen.png)
